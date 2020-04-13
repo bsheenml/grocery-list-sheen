@@ -4,9 +4,11 @@
 
 This project follows the [LogRocket React + Firebase Tutorial](https://blog.logrocket.com/react-hooks-with-firebase-firestore/) to build a Grocery List app from scratch using Create React App.
 
+Demo: [https://grocery-list-sheen.firebaseapp.com/](https://grocery-list-sheen.firebaseapp.com/) 
+
 ## Motivation
 
-After cloning, modifying, and deploying multiple React + Firbase apps, I wanted to build one from scratch using Create React App. My goal is to practice my git commit flow while helping to ingrain the process of deploying a secure React + Firebase app to memory.
+After cloning, modifying, and deploying multiple React + Firebase apps, I wanted to build one from scratch using Create React App. My goal is to practice my git commit flow while helping to ingrain the process of deploying a secure React + Firebase app to memory.
 
 After deploying the the basic app from tutorial, I would like to add Material UI design elements, and configure testing.
 
